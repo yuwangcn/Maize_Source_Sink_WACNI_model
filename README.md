@@ -36,7 +36,7 @@ The baseline scenario is enabled in `TestRun.m`; the other scenarios are comment
 - `0ori.txt`: exported state variables and cumulative quantities, with time in seconds.
 - `0ori-plot.txt`: processed data for plotting, with time in days.
 
-### Plot the Supplied Results
+### Plot the Results
 
 Enter the following in the MATLAB Command Window:
 

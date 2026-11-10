@@ -36,6 +36,8 @@ The baseline scenario is enabled in `TestRun.m`; the other scenarios are comment
 - `0ori.txt`: exported state variables and cumulative quantities, with time in seconds.
 - `0ori-plot.txt`: processed data for plotting, with time in days.
 
+The default simulation took about 70 seconds on the test machine using MATLAB R2025a; runtime may vary with hardware and model settings.
+
 ### Plot the Results
 
 Enter the following in the MATLAB Command Window:
